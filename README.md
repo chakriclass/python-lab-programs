@@ -81,6 +81,6 @@ Students are welcome to suggest improvements or new programs:
 ## 👨‍🏫 Author
 
 **B.V.Chakri Lohith**
-Assistant Professor, St. Mary's Engineering College | PhD Research Scholar (ML & DL)
+Assistant Professor, St. Mary's Engineering College | PhD Research Scholar (Web Security)
 
 ⭐ If this repository helped you, please give it a star!
